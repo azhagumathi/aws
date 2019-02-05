@@ -1,0 +1,9 @@
+devices
+	supported devices
+	device pool
+	private device
+	device slots
+
+testing environment
+	standard test environment
+	custom test environment
